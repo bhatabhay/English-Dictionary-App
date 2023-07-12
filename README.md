@@ -4,8 +4,11 @@ The aim of this project is to create an English Dictionary app that returns defi
 Main Menu
 
 Add a new word
+
 Find the meaning
+
 Update a word
+
 Exit
 
 Enter Choice:
